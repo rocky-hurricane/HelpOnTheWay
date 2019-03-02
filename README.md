@@ -1,8 +1,10 @@
+# Help On The Way
+
 <div align="center">
    <img src="HelpOnTheWay/app/libs/logo.png" width="150px">
 </div>
 
-# Help On The Way
+
 17781 Android Project
 
 # Team6 
