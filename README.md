@@ -1,3 +1,7 @@
+<div align="center">
+   <img src="HelpOnTheWay/app/libs/logo.png" width="150px">
+</div>
+
 # Help On The Way
 17781 Android Project
 
@@ -7,9 +11,7 @@ Mingyang Li<br>
 Yuqi Sun<br>
 Junxue Zhu<br>
 
-<div align="center">
-   <img src="HelpOnTheWay/app/libs/logo.png" width="150px">
-</div>
+
 
 # Git experience to improve teamwork efficiency
 * The master branch is protected. It can only be updated by pull request. Direct push does not work.
