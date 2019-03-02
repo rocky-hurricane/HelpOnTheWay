@@ -3,9 +3,9 @@
 
 # Team6 
 Andrew Heitmann<br>
-Mingyang Li
-Yuqi Sun
-Junxue Zhu
+Mingyang Li<br>
+Yuqi Sun<br>
+Junxue Zhu<br>
 
 # Git experience to improve teamwork efficiency
 * The master branch is protected. It can only be updated by pull request. Direct push does not work.
