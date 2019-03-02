@@ -7,7 +7,7 @@ Mingyang Li<br>
 Yuqi Sun<br>
 Junxue Zhu<br>
 
-<img src="HelpOnTheWay/app/libs/poster_final.pdf">
+<img src="HelpOnTheWay/app/libs/poster_final.pdf" width="150px">
 
 # Git experience to improve teamwork efficiency
 * The master branch is protected. It can only be updated by pull request. Direct push does not work.
