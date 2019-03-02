@@ -7,6 +7,10 @@ Mingyang Li<br>
 Yuqi Sun<br>
 Junxue Zhu<br>
 
+<div align="center">
+   <img src="HelpOnTheWay/app/libs/poster_final.pdf" width="150px">
+</div>
+
 # Git experience to improve teamwork efficiency
 * The master branch is protected. It can only be updated by pull request. Direct push does not work.
 * Create a new branch by **git checkout -b <branch_name>**, push the branch, and create a pull request in github console.
