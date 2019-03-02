@@ -8,7 +8,7 @@ Yuqi Sun<br>
 Junxue Zhu<br>
 
 <div align="center">
-   <img src="HelpOnTheWay/app/libs/poster_final.pdf" width="150px">
+   <img src="HelpOnTheWay/app/libs/logo.png" width="150px">
 </div>
 
 # Git experience to improve teamwork efficiency
