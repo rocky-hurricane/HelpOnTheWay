@@ -1,4 +1,4 @@
-# HelpOnTheWay
+# Help On The Way
 17781 Android Project
 
 # Team6 
