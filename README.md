@@ -2,7 +2,7 @@
 17781 Android Project
 
 # Team6 
-Andrew Heitmann
+Andrew Heitmann<br>
 Mingyang Li
 Yuqi Sun
 Junxue Zhu
