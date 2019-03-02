@@ -1,8 +1,11 @@
 # HelpOnTheWay
 17781 Android Project
 
-# CloudTeam-S18
-S18 15619 Cloud Computing: CloudTeam-S18
+# Team6 
+Andrew Heitmann
+Mingyang Li
+Yuqi Sun
+Junxue Zhu
 
 # Git experience to improve teamwork efficiency
 * The master branch is protected. It can only be updated by pull request. Direct push does not work.
